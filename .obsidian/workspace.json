@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "0bf994adb27d78a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d6124dcda0f4c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e6873c3abff8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked_List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3e3a3d06c84e5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c42930e1543dbb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Floyd's_Cycle-Finding_Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32dd78059686771d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc1c2e11932355b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be083420a497494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26467577bfb14e75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89e6d3c207b9593e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5366b53b0de73bbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a0db1ec5741c98d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8b2d91c5216c451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b91c3b66b8b084d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bae9c1d62b67c6bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8724866e67f24342",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44a71e4d3b803934",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc6b059aa41d1ca0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "32dd78059686771d",
+  "lastOpenFiles": [
+    "programming.md",
+    "Amortized_Analysis.md",
+    "Linked_List.md",
+    "Floyd's_Cycle-Finding_Algorithm.md",
+    "index.md",
+    "Resource_Aquisition_is_Initialisation_-_(RAII).md",
+    "templates/sync-title.md",
+    "Heap_Sort.md",
+    "Heap-Sort.md",
+    "this-is-a-test-file.md"
+  ]
+}
