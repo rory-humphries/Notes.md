@@ -1,6 +1,6 @@
 ---
-title: Resource Aquisition is Initialisation - (RAII)
-alias: RAII
+title: RAII
+alias: Resource Aquisition is Initialisation
 ---
 
 # Definition

@@ -4,55 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "56d6124dcda0f4c5",
+        "id": "fca7422067d965f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e6873c3abff8f0",
+            "id": "aabf986c2ec0ebff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Linked_List.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
+            },
+            "group": "c956312ea479e09a"
           },
           {
-            "id": "d3e3a3d06c84e5b3",
+            "id": "64249b9ff008bb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming.md",
+                "file": "Tree_(Data_Type).md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
-          },
+            },
+            "group": "f9ad0ecaf1e11d99"
+          }
+        ]
+      },
+      {
+        "id": "d28f9e55d430e84c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "0c42930e1543dbb5",
+            "id": "b9f0fe00c8267625",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floyd's_Cycle-Finding_Algorithm.md",
-                "mode": "source",
-                "source": false
+                "file": "Linked_List.md",
+                "mode": "preview",
+                "source": true
               }
-            }
+            },
+            "group": "c956312ea479e09a"
           },
           {
-            "id": "32dd78059686771d",
+            "id": "9edcd72dbf46cbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree_(Data_Type).md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "f9ad0ecaf1e11d99"
+          },
+          {
+            "id": "bbbbb0f02eeb5829",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linked_List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linked_List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linked_List.md"
+              }
             }
           },
           {
@@ -170,19 +195,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "32dd78059686771d",
+  "active": "aabf986c2ec0ebff",
   "lastOpenFiles": [
-    "programming.md",
-    "Amortized_Analysis.md",
+    "Abstract_Data_Type.md",
+    "Tree_(Data_Type).md",
+    "List_(Data_Type).md",
+    "Data_Structure.md",
+    "Array_(Data_Type).md",
+    "String.md",
+    "Singly_Linked_List.md",
+    "Primitive_Data_Type.md",
     "Linked_List.md",
-    "Floyd's_Cycle-Finding_Algorithm.md",
-    "index.md",
-    "Resource_Aquisition_is_Initialisation_-_(RAII).md",
-    "templates/sync-title.md",
-    "Heap_Sort.md",
-    "Heap-Sort.md",
-    "this-is-a-test-file.md"
+    "Heap.md"
   ]
 }

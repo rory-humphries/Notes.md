@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="41.026684mm"
+   height="73.782181mm"
+   viewBox="0 0 41.026684 73.782181"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="dir_tree_redundent_1.svg"
+   inkscape:export-filename="dir_tree_redundent_1.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6991102"
+     inkscape:cx="89.659178"
+     inkscape:cy="125.96744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker2267_F-000000_S-ff8080"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="6.9999995"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:#ff8080;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="path2409"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3_F-2b0000_S-2b0000"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="6.9999995"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:#2b0000;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="path2412"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1745_F-ffccaa_S-000000"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="6.9999995"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="path14196"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow3_F-ffccaa_S-000000"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow3"
+       markerWidth="4.2071066"
+       markerHeight="7"
+       viewBox="0 0 4.2071068 7"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         id="path14202"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.687306,-13.311272)"
+     style="display:inline">
+    <circle
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.353808"
+       id="path234"
+       cx="102.45324"
+       cy="17.577862"
+       r="4.0896854" />
+    <circle
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.353808"
+       id="path234-3"
+       cx="85.953896"
+       cy="39.086151"
+       r="4.0896854" />
+    <circle
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.353808"
+       id="path234-6"
+       cx="118.4473"
+       cy="39.086151"
+       r="4.0896854" />
+    <circle
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.353808"
+       id="path234-7"
+       cx="102.45324"
+       cy="61.692974"
+       r="4.0896854" />
+    <circle
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.354;stroke-dasharray:none"
+       id="path234-5"
+       cx="118.4473"
+       cy="82.826767"
+       r="4.0896854" />
+    <path
+       style="display:inline;fill:#ffccaa;stroke:#000000;stroke-width:0.353999;stroke-dasharray:none;marker-end:url(#marker1745_F-ffccaa_S-000000)"
+       d="M 99.828642,20.837832 88.6291,35.780106"
+       id="path1395" />
+    <path
+       style="display:inline;fill:#ffccaa;stroke:#000000;stroke-width:0.353414;stroke-dasharray:none;marker-end:url(#marker1745_F-ffccaa_S-000000)"
+       d="m 105.50812,20.314204 10.60485,15.198963"
+       id="path1423" />
+    <path
+       style="display:inline;fill:#ffccaa;stroke:#000000;stroke-width:0.351493;stroke-dasharray:none;marker-end:url(#Arrow3_F-ffccaa_S-000000)"
+       d="M 116.07814,42.552712 104.75622,58.019629"
+       id="path1515" />
+    <path
+       style="display:inline;fill:#2b0000;fill-opacity:0;stroke:#000000;stroke-width:0.349839;stroke-dasharray:none;marker-end:url(#Arrow3_F-2b0000_S-2b0000)"
+       d="m 104.8478,65.025442 10.76355,14.316235"
+       id="path2199" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#ff8080;stroke-width:0.351805;stroke-dasharray:none;marker-end:url(#marker2267_F-000000_S-ff8080)"
+       d="m 90.007316,39.180011 23.971814,0.08154"
+       id="path1062" />
+  </g>
+</svg>

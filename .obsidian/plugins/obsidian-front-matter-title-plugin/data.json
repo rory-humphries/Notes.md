@@ -2,16 +2,6 @@
   "templates": [
     "title"
   ],
-  "managers": {
-    "explorer": true,
-    "graph": true,
-    "header": false,
-    "quick_switcher": false,
-    "file_note_link": false,
-    "starred": false,
-    "search": false,
-    "tab": false
-  },
   "rules": {
     "paths": {
       "mode": "black",
@@ -27,14 +17,33 @@
     "delay": 1000
   },
   "features": {
+    "alias": {
+      "enabled": false,
+      "strategy": ""
+    },
+    "explorer": {
+      "enabled": false
+    },
     "explorer:sort": {
       "enabled": false
     },
-    "file:note:link:approval": {
+    "tab": {
+      "enabled": false
+    },
+    "header": {
+      "enabled": false
+    },
+    "graph": {
       "enabled": true
     },
-    "file:note:link:filter": {
-      "enabled": true
+    "starred": {
+      "enabled": false
+    },
+    "search": {
+      "enabled": false
+    },
+    "suggest": {
+      "enabled": false
     }
   }
 }

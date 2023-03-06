@@ -3,5 +3,8 @@
   "templater-obsidian",
   "metaedit",
   "markdown-prettifier",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-minimal-settings",
+  "wikilinks-to-mdlinks-obsidian",
+  "obsidian-sort-and-permute-lines"
 ]
